@@ -16,6 +16,6 @@ I work with UML and ER diagrams for software and database modeling.
 
 If you'd like to connect with me, feel free to reach out!
 
-- LinkedIn: ----
+- LinkedIn: https://www.linkedin.com/in/lamiae-khedrani-7b088240a/
 - Email: lamiaekhedrani@gmail.com
   
